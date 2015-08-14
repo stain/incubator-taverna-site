@@ -158,23 +158,24 @@ Ensure you can log in to the Nexus instance before performing a release.
 To provide the Nexus credentials, edit your `~/.m2/settings.xml` to include
 your apache.org committer credentials:
 
-<pre><code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd" xmlns="http://maven.apache.org/SETTINGS/1.1.0"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
-  &ltservers&gt;
-    &ltserver&gt;
-      &ltid&gt;apache.snapshots.https&lt/id&gt;
-      &ltusername&gt;johndoe&lt/username&gt;
-      &ltpassword&gt;fishsoup&lt/password&gt;
-    &lt/server&gt;
-    &lt;server&gt;
-      &ltid&gt;apache.releases.https&lt/id&gt;
-      &ltusername&gt;johndoe&lt;/username&gt;
-      &ltpassword&gt;fishsoup&lt/password&gt;
-    &lt/server&gt;
-  &lt/servers&gt;
-&lt/settings&gt;
-</code></pre>
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd" xmlns="http://maven.apache.org/SETTINGS/1.1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <servers>
+    <server>
+      <id>apache.snapshots.https</id>
+      <username>johndoe</username>
+      <password>fishsoup</password>
+    </server>
+    <server>
+      <id>apache.releases.https</id>
+      <username>johndoe</username>
+      <password>fishsoup</password>
+    </server>
+  </servers>
+</settings>
+```
 
 
 
@@ -544,8 +545,8 @@ A staged Maven repository is available for review at:
 
 The changelog for this release is available from JIRA:
 
-  https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318322&version=12332247
-  https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318322&version=12332246
+  https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318322&amp;version=12332247
+  https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318322&amp;version=12332246
 
 
 

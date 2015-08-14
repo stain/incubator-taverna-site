@@ -86,7 +86,7 @@ ASF Distribution Directory [incubator/taverna/](https://www.apache.org/dyn/close
   [md5](https://www.apache.org/dist/incubator/taverna/source/taverna-language-0.15.0-incubating/taverna-language-0.15.0-incubating-source-release.zip.md5),
   [sha1](https://www.apache.org/dist/incubator/taverna/source/taverna-language-0.15.0-incubating/taverna-language-0.15.0-incubating-source-release.zip.sha1))
 
-The Taverna Language [changelog](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318322&version=12332246)
+The Taverna Language [changelog](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12318322&amp;version=12332246)
 is available from the [Apache Taverna Jira](https://issues.apache.org/jira/browse/TAVERNA/component/12326808).
 
 
@@ -100,7 +100,7 @@ is available from the [Apache Taverna Jira](https://issues.apache.org/jira/brows
   [md5](https://www.apache.org/dist/incubator/taverna/source/taverna-parent-1-incubating/taverna-parent-1-incubating-source-release.zip.md5),
   [sha1](https://www.apache.org/dist/incubator/taverna/source/taverna-parent-1-incubating/taverna-parent-1-incubating-source-release.zip.sha1))
 
-The Taverna Maven parent [changelog](https://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12332247&projectId=12318322)
+The Taverna Maven parent [changelog](https://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12332247&amp;projectId=12318322)
 is available from the [Apache Taverna Jira](https://issues.apache.org/jira/browse/TAVERNA/component/12326807).
 
 ### Source code repositories

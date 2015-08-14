@@ -17,17 +17,19 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            under the License.
 
 <div class="alert alert-info" role="alert"><p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
-Taverna is transitioning to the Apache Incubator. 
+Taverna is transitioning to the Apache Incubator.
 Currently there is no Apache release of any Taverna products.
-This page is a template for the download page once an Apache version is available. 
+This page is a template for the download page once an Apache version is available.
+</p>
 </div>
 
 ##Pre Apache Releases and Snapshots
 
-The pre Apache Taverna code is available as a maven download from 
-  <http://repository.mygrid.org.uk/artifactory/mygrid-all/>
+The pre Apache Taverna code is available as a maven download from
+http://repository.mygrid.org.uk/artifactory/mygrid-all
 
 #### Release repository
+
     <repository>
         <id>mygrid-repository</id>
         <name>myGrid Repository</name>
@@ -39,6 +41,7 @@ The pre Apache Taverna code is available as a maven download from
     </repository>
 
 #### Snapshot repository
+
     <repository>
         <id>mygrid-snapshot-repository</id>
         <name>myGrid Snapshot Repository</name>
@@ -48,4 +51,3 @@ The pre Apache Taverna code is available as a maven download from
         </releases>
         <snapshots />
     </repository>
-

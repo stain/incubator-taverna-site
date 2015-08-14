@@ -44,15 +44,14 @@ Some of the Apache Taverna developers and users hang out on the IRC chat channel
 
 <div id="content"><div class="alert alert-info alert-dismissible" role="alert"><p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span><strong> Note:</strong>
 The #taverna IRC channel is <a class="alert-link" href="http://wilderness.apache.org/channels/#logs-#taverna">logged publicly</a>.
-</div></div>
+</p></div></div>
 
 Remember:
 
 > If it didn't happen on the [mailing list](/community/lists), it didn't happen.
 
-If you don't have an [IRC client](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients) you can use the [freenode webchat](http://webchat.freenode.net/?channels=%23taverna&uio=MTE9MjA16a):
+If you don't have an [IRC client](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients) you can use the [freenode webchat](http://webchat.freenode.net/?channels=%23taverna&amp;uio=MTE9MjA16a):
 
 <div id="irc">
-<iframe id="ircframe" src="http://webchat.freenode.net?channels=%23taverna&uio=MTE9MjA16a" width="647" height="400"></iframe>
+<iframe id="ircframe" src="http://webchat.freenode.net?channels=%23taverna&amp;uio=MTE9MjA16a" width="647" height="400"></iframe>
 </div>
-

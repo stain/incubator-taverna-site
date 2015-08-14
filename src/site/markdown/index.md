@@ -27,7 +27,7 @@ jsonld: {
       "name" : "Apache Taverna",
       "logo" : "http://taverna.incubator.apache.org/img/taverna-logo-145x134.png"
     },
-    "publisher" : { "@type" : "Organization", 
+    "publisher" : { "@type" : "Organization",
                     "url" : "http://www.apache.org/",
                     "name" : "The Apache Software Foundation (ASF)" },
     "downloadUrl" : "http://taverna.incubator.apache.org/download"
@@ -39,8 +39,9 @@ Taverna has recently transitioned
 to the Apache Incubator. This website is for the Apache Taverna project and is <strong>under development</strong>.
 </p>
 <p>
-You might want to visit the earlier <a class="alert-link" href="http://www.taverna.org.uk/">taverna.org.uk</a> 
+You might want to visit the earlier <a class="alert-link" href="http://www.taverna.org.uk/">taverna.org.uk</a>
 website which is not affiliated with Apache.
+</p>
 </div>
 
 
@@ -49,7 +50,7 @@ website which is not affiliated with Apache.
 <div class="jumbotron">
   <h1>Taverna Workflow System</h1>
     <p class="lead">
-Powerful, scalable, open source & domain independent tools for
+Powerful, scalable, open source &amp; domain independent tools for
 designing and executing workflows. Access to 3500+ resources.
 </p>
     <p><a class="btn btn-lg btn-success" href="/download" role="button">Download</a>
@@ -61,9 +62,9 @@ designing and executing workflows. Access to 3500+ resources.
 <div class="row marketing">
    <div class="col-lg-6">
           <h4>Build scientific workflows</h4>
-          <p><strong>Taverna</strong> is an open source and domain-independent 
+          <p><strong>Taverna</strong> is an open source and domain-independent
 Workflow Management System
- &#8211; a suite of tools used to design and execute <em>scientific workflows</em> and aid 
+ &#8211; a suite of tools used to design and execute <em>scientific workflows</em> and aid
 <em>in silico</em> experimentation.
 </p>
   </div>
@@ -76,14 +77,14 @@ In short, this means:</p>
 <li>Taverna 2.5.1 will be last non-Apache release from <a href="http://www.taverna.org.uk/">taverna.org.uk</a></li>
 <li><a href="https://www.apache.org/foundation/how-it-works.html#management">Open Development</a> process - anyone can contribute</li>
 <li>Development infrastructure hosted by <a href="http://www.apache.org/">apache.org</a></li>
-<li><a href="/community">Taverna mailing lists</a> have moved to @taverna.incubator.apache.org</li>
-<li><a href="/download/code">Source code</a> will move to 
+<li><a href="/community/">Taverna mailing lists</a> have moved to @taverna.incubator.apache.org</li>
+<li><a href="/download/code/">Source code</a> will move to
 <a href="http://git.apache.org/">http://git.apache.org/</a>, with GitHub mirror</li>
 </ul>
-<p>For further details, see the presentation 
-<a href="http://dev.mygrid.org.uk/wiki/display/developer/Taverna+as+an+Apache+Incubator+project">Taverna 
-as an Apache Incubator project</a> and sign up to 
-the <a href="http://mail-archives.apache.org/mod_mbox/incubator-taverna-dev/">dev@taverna.incubator.apache.org</a> 
+<p>For further details, see the presentation
+<a href="http://dev.mygrid.org.uk/wiki/display/developer/Taverna+as+an+Apache+Incubator+project">Taverna
+as an Apache Incubator project</a> and sign up to
+the <a href="http://mail-archives.apache.org/mod_mbox/incubator-taverna-dev/">dev@taverna.incubator.apache.org</a>
 mailing list.</p>
 
 

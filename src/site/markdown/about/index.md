@@ -16,7 +16,7 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-Apache Taverna is a [incubator project](http://incubator.apache.org/) within the 
+Apache Taverna is a [incubator project](http://incubator.apache.org/) within the
 [The Apache Software Foundation (ASF)](http://www.apache.org/).
 
 ## Incubator status
@@ -26,10 +26,9 @@ Apache Taverna is a [incubator project](http://incubator.apache.org/) within the
 
 ## Who are we?
 
-The current [Taverna committers](http://people.apache.org/committers-by-project.html#taverna) (and 
+The current [Taverna committers](http://people.apache.org/committers-by-project.html#taverna) (and
 PPMC) are:
 
-</style>
 <table class="table table-striped">
 <thead>
 </thead>

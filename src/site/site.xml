@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements. See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership. The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<project name="Apache Taverna">
+
+  <bannerLeft>
+    <name>Apache Taverna</name>
+    <src>/img/taverna-logo-145x134.png</src>
+    <alt>Apache Taverna logo</alt>
+    <href>http://taverna.incubator.apache.org/</href>
+  </bannerLeft>
+
+  <publishDate format="yyyy-MM-dd" position="left" />
+  <version position="none"/>
+
+  <skin>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-skin</artifactId>
+    <version>4.1</version>
+  </skin>
+
+  <custom>
+    <meta>
+      <description>Apache Taverna</description>
+      <keywords>Apache, Taverna, workflows, REST, WSDL</keywords>
+    </meta>
+    <footer>
+      <div class="center">
+      Apache Taverna, Apache, the Apache feather logo, and the Apache Taverna project logo are trademarks of The Apache Software Foundation.
+      All other marks mentioned may be trademarks or registered trademarks of their respective owners.</div>
+    </footer>
+  </custom>
+
+  <body>
+    <links>
+      <item name="Incubator"            href="http://incubator.apache.org/" />
+    </links>
+    <menu name="Project">
+      <item name="Home"                 href="/index.html" />
+      <item name="Community"            href="/community/" />
+      <item name="Documentation"        href="/documentation/" />
+      <item name="Download"             href="/download/" />
+      <item name="About us"                 href="/about/" />
+    </menu>
+    <menu name="Introduction">
+      <item name="Introduction to Taverna"        href="/introduction/" />
+      <item name="Features"        href="/introduction/features" />
+      <item name="Why use workflows?"        href="/introduction/why-use-workflows" />
+      <item name="... (TODO)"        href="#" />
+    </menu>
+    <menu name="Documentation">
+      <item name="Taverna docs"        href="/documentation/" />
+      <item name="Glossary"        href="/documentation/glossary/" />
+      <item name="SCUFL2"        href="/documentation/scufl2/" />
+      <item name="... (TODO)"        href="#" />
+    </menu>
+    <menu name="Download">
+      <item name="Which Taverna to download?"        href="/download/" />
+      <item name="Language"        href="/download/language/" />
+      <item name="Workbench"        href="/download/workbench/" />
+      <item name="Command Line Tool"        href="/download/command-line-tool/" />
+      <item name="... (TODO)"        href="#" />
+    </menu>
+    <menu name="Community">
+      <item name="Taverna Community"        href="/community/" />
+      <item name="Mailing lists"        href="/community/lists" />
+      <item name="Contribute"        href="/community/contribute" />
+      <item name="... (TODO)"        href="#" />
+    </menu>
+  </body>
+
+  <poweredBy>
+    <logo name="Maven" href="http://maven.apache.org/"
+          img="http://maven.apache.org/images/logos/maven-feather.png"/>
+  </poweredBy>
+
+</project>

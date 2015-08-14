@@ -16,11 +16,11 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-Taverna can connect to a wide variety of bioinformatics resources and has been successfully applied to a number 
+Taverna can connect to a wide variety of bioinformatics resources and has been successfully applied to a number
    of bioinformatics problems, listed below according to their sub-domains.
-<img class="aligncenter" 
-     title="Bioinformatics services and resources" 
-     src="/img/BioinformaticsResources.png" 
+<img class="aligncenter"
+     title="Bioinformatics services and resources"
+     src="/img/BioinformaticsResources.png"
      alt="Bioinformatics services and resources" width="676" height="441" />
 
 Bioinformatics systems/tools using Taverna:
@@ -35,9 +35,9 @@ Bioinformatics systems/tools using Taverna:
 ### Gene and genome expression ###
 
  - [Next Generation Sequencing][4] using Taverna 2 Server on Amazon cloud
- - [TavernaPBS][5] - next generation sequencing analysis using a computational cluster that uses a PBS 
+ - [TavernaPBS][5] - next generation sequencing analysis using a computational cluster that uses a PBS
       queuing system and Taverna 2 Workbench
- - [Coordination and Sustainability of International Mouse Informatics Resources][6] (CASIMIR) - 
+ - [Coordination and Sustainability of International Mouse Informatics Resources][6] (CASIMIR) -
       workflows to associate mouse genome and phenome
  - [Developmental Gene Expression Map][7] (DGEMap)- analysis of human gene expression during development
  - [Graves disease][8] - identification of genes responsible
@@ -46,8 +46,8 @@ Bioinformatics systems/tools using Taverna:
  - [Trypanosomiasis][11] - identification of genes responsible for sleeping sickness
  - [Williams-Beuren syndrome][12] - automation and confirmation of gene characterization
  - [PLANET][13] - integration of plant genome resources
- - [Annotation of genomes][14]</a>
- - [Shared Genomics][15]</a>
+ - [Annotation of genomes][14]
+ - [Shared Genomics][15]
  - [e-Fungi][16] functional genomics in fungal species
 
 ###Protein and proteomics###
@@ -55,7 +55,7 @@ Bioinformatics systems/tools using Taverna:
  - [Analysis of mass spectrometry data in proteomics][17]
  - [Anthrax analysis][18] - identification of proteins secreted by bacteria
  - [eFamily][19] - integrating data from different databases
- - [European Model for Bioinformatics Research And Community Education][20] (EMBRACE) - 
+ - [European Model for Bioinformatics Research And Community Education][20] (EMBRACE) -
       calling services on a grid; recovering a database
  - [iSpider][21] - querying multiple data sources
  - [ProDom][22] - running of Taverna workflows behind a portal to search a protein database
@@ -64,12 +64,12 @@ Bioinformatics systems/tools using Taverna:
 
  - [ENFIN][23] – Enabling Systems Biology – calling of wrapped tools within workflows
  - [Manchester Centre for Integrative Systems Biology][24] (MCISB) – modelling metabolomic pathways
- - [Systems Biology Operational Software][25] (SB.OS) - a live DVD based on Ubuntu Linux that comes with a 
+ - [Systems Biology Operational Software][25] (SB.OS) - a live DVD based on Ubuntu Linux that comes with a
       comprehensive list of Systems Biology Software (including Taverna)
- - [Tav4SB][26] - Taverna workflows for systems biology, 
+ - [Tav4SB][26] - Taverna workflows for systems biology,
       in particular for analysis of the kinetic models of biological systems
  - [Measuring of enzyme characteristics of yeast][27]
- - [Automatic Functional Annotation in a distributed Web Service Environment][28] (AFAWE) – 
+ - [Automatic Functional Annotation in a distributed Web Service Environment][28] (AFAWE) –
       protein prediction and annotation by a tool that calls workflows
  - [PLANET (A Network of European Plant Databases)][29] – calling of workflows from a portal
 
@@ -81,26 +81,26 @@ Bioinformatics systems/tools using Taverna:
  - [Identification of genes linked to Graves disease][33]
  - [Characterisation of genes associated with Williams-Beuren syndrome][34]
  - [caGrid][35] - research into predicting limphoma cancer
- - [EU-ADR][36] - detecting adverse drug reactions through the exploitation of clinical data from electronic 
+ - [EU-ADR][36] - detecting adverse drug reactions through the exploitation of clinical data from electronic
       healthcare records
 
 <a name="biowep"></a>
 ###BioWEP###
-Researchers at the Italian National Institute for Cancer Research Genoa ([IST][37]) have developed a 
+Researchers at the Italian National Institute for Cancer Research Genoa ([IST][37]) have developed a
    Bioinformatics Workflow Enactment Portal called [BioWEP][38].
 
-The [portal][39] allows registered users to search for or select from a set of specified Taverna workflows. 
-The workflow can be enacted by entering input values into a form. 
-During enaction, the user can either wait for the result, or for longer running workflows, 
+The [portal][39] allows registered users to search for or select from a set of specified Taverna workflows.
+The workflow can be enacted by entering input values into a form.
+During enaction, the user can either wait for the result, or for longer running workflows,
    visit the portal later. The results of the enactment can be downloaded for external visualization.
 
 ####Publications####
-The http://dx.doi.org/10.1186/1471-2105-8-S1-S19 *Biowep: a workflow enactment portal for bioinformatics 
+The http://dx.doi.org/10.1186/1471-2105-8-S1-S19 *Biowep: a workflow enactment portal for bioinformatics
    applications* by Romano et al gives an overview of the intent and design of Biowep.
 
 <a naem="biolinux"></a>
 ###BioLinux###
-The UK’s Natural Environment Research Council (NERC) Environmental Bioinformatics [Centre][40] release 
+The UK’s Natural Environment Research Council (NERC) Environmental Bioinformatics [Centre][40] release
    [BioLinux][41], an installation of Ubuntu Linux that includes many bioinformatics programs.
 
 Among the programs included in the BioLinux distribution is Taverna.  
@@ -108,29 +108,29 @@ The suite of programs are also available for installation on pre-existing Linux 
 
 <a name="lumc"></a>
 ###LUMC###
-People from the Leiden University Medical Center ([LUMC](https://www.lumc.nl/) in the Netherlands are using Taverna for analysis 
+People from the Leiden University Medical Center ([LUMC](https://www.lumc.nl/) in the Netherlands are using Taverna for analysis
   of mass spectrometry data in proteomics.
 
-They presented a [poster][43] at the 2011 ASMS (the American Society for Mass Spectrometry) Conference on 
+They presented a [poster][43] at the 2011 ASMS (the American Society for Mass Spectrometry) Conference on
   Mass Spectrometry and Allied Topics.
 
 Please contact [Dr. Magnus Palmblad][44] for more details.
 
 <a name="measuring-enzyme-characteristics-of-yeast"></a>
 ###Measuring enzyme characteristics of yeast###
-The [Manchester Centre for Integrative Systems Biology][45] (MCISB) is in the process of measuring the 
-   kinetic and binding constants associated with enzyme reactions in metabolic pathways in the yeast, 
-   Saccharomyces cerevisiae. 
-Quantitative models of these metabolic pathways are being integrated with transcriptomic, proteomic and 
+The [Manchester Centre for Integrative Systems Biology][45] (MCISB) is in the process of measuring the
+   kinetic and binding constants associated with enzyme reactions in metabolic pathways in the yeast,
+   Saccharomyces cerevisiae.
+Quantitative models of these metabolic pathways are being integrated with transcriptomic, proteomic and
    metabolomic data by workflows that have been constructed and enacted using Taverna.
 
 ####Publications####
-A [poster][46] by Peter Li describing the systems biology workflows was presented at the International 
+A [poster][46] by Peter Li describing the systems biology workflows was presented at the International
    Conference of Systems Biology 2006 and he has written several publications about the work.
 
-Many of the workflows make use of Systems Biology Markup Language ([SBML][47]) as described in the 
-   [paper](http://bioinformatics.oxfordjournals.org/content/24/2/287.full.pdf) 
-   *Automated manipulation of systems biology models using libSBML within Taverna workflows* 
+Many of the workflows make use of Systems Biology Markup Language ([SBML][47]) as described in the
+   [paper](http://bioinformatics.oxfordjournals.org/content/24/2/287.full.pdf)
+   *Automated manipulation of systems biology models using libSBML within Taverna workflows*
    by Li et al.
 
 An [example workflow][49] using SBML is available on [myExperiment][50].

@@ -24,35 +24,35 @@ Taverna and [myExperiment][1] are being used for astronomy research by several p
 
 <a name="astrogrid"></a>
 ##AstroGrid##
-The UK’s [AstroGrid][5] is a ~£14M (over the period 2001-2009) project aimed at building a data-grid for UK 
-   astronomy, which will form the UK contribution to a global VirtualObservatory.</p>
+The UK’s [AstroGrid][5] is a ~£14M (over the period 2001-2009) project aimed at building a data-grid for UK
+   astronomy, which will form the UK contribution to a global VirtualObservatory.
 
-A [Taverna 1.x processor][6] has been written to enable client-site AstroGrid utilities to be included within 
+A [Taverna 1.x processor][6] has been written to enable client-site AstroGrid utilities to be included within
    Taverna workflows.
 
 ###Publications###
-A book chapter "AstroGrid and the Virtual Observatory", Walton, N. A., Gonzalez-Solareson, E., Springer, 
-   Lecture Notes in Physic, vol. 791, pp. 81-113, 2009.   
+A book chapter "AstroGrid and the Virtual Observatory", Walton, N. A., Gonzalez-Solareson, E., Springer,
+   Lecture Notes in Physic, vol. 791, pp. 81-113, 2009.
 [http://www.springerlink.com/content/yk36404544k778g8][7]
 
-AstroGrid: Taverna in the Virtual Observatory, Benson, K. M., Walton, N. A., Memorie della Società Astronomica 
-   Italiana, vol. 80, p.574, 2009   
+AstroGrid: Taverna in the Virtual Observatory, Benson, K. M., Walton, N. A., Memorie della Società Astronomica
+   Italiana, vol. 80, p.574, 2009
 [http://adsabs.harvard.edu/abs/2009MmSAI..80..574B][8]
 
-Taverna and Workflows in the Virtual Observatory, Walton, N. A.; Witherwick, D. K.; Oinn, T.; Benson, K. M., 
-   Proceedings of the Astronomical Data Analysis Software and Systems ASP Conference Series, London, UK. 
-Edited by Robert W. Argyle, Peter S. Bunclark, and James R. Lewis., p.309, 2008.   
+Taverna and Workflows in the Virtual Observatory, Walton, N. A.; Witherwick, D. K.; Oinn, T.; Benson, K. M.,
+   Proceedings of the Astronomical Data Analysis Software and Systems ASP Conference Series, London, UK.
+Edited by Robert W. Argyle, Peter S. Bunclark, and James R. Lewis., p.309, 2008.
 [http://adsabs.harvard.edu/abs/2008ASPC..394..309W][9]
 
 <a name="sampo"></a>
 ##SAMPO##
 The SAMPO [project][10] was part of the ongoing Finnish contribution to the [European Southern Observatory][11].
 
-Based upon Taverna, the SAMPO project developed the Recipe Flexible Execution workflow system [ESO Reflex][12]. 
+Based upon Taverna, the SAMPO project developed the Recipe Flexible Execution workflow system [ESO Reflex][12].
 ESO Refex allows users to connect together C programs that reduce the raw data produced by ESO instruments.
 
 ###Publications###
-The [paper][13] *ESO Reflex: A Graphical Workflow Engine for Running Recipes* by Hook et al, describes the 
+The [paper][13] *ESO Reflex: A Graphical Workflow Engine for Running Recipes* by Hook et al, describes the
    ESO Reflex workbench.
 
   [1]: http://www.myexperiment.org

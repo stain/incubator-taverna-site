@@ -18,25 +18,25 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
 
 Taverna has been used in engineering projects:
 
-[Jet Propusion Laboratory][1] (JPL) -using Taverna as the Web services-based infrastructure for their 
-   Observing Systems Simulation Experiments (OSSE) project (modelling how mission design objectives impact science)</li>
+[Jet Propusion Laboratory][1] (JPL) -using Taverna as the Web services-based infrastructure for their
+   Observing Systems Simulation Experiments (OSSE) project (modelling how mission design objectives impact science)
 
 <a name="jpl"></a>
 
 ##JPL##
-NASA’s [Jet Propulsion Laboratory][2] (JPL), based at the California Institute of Technology, 
-   created the first American satellite, 
+NASA’s [Jet Propulsion Laboratory][2] (JPL), based at the California Institute of Technology,
+   created the first American satellite,
    sent the first robotic craft to the moon and currently has twenty spacecraft on active missions.
 The JPL have been involved in yet another giant leap for mankind: they have adopted Taverna as the Web services -
-   based infrastructure for their Observing Systems Simulation Experiments (OSSE) project. 
+   based infrastructure for their Observing Systems Simulation Experiments (OSSE) project.
 The JPL are applying OSSE in the study of science algorithms as part of a proposed hyper-spectral imaging mission.
 
-JPL considered a number of different research and commercial workflow systems and finally settled on Taverna. 
-"The thing that really sold us on Taverna was the dynamic WSDL introspection and presentation of the 
-   WSDL interface as ports of a process component" - said Hook Hua, 
-   a member of the High Capability Computing and Modeling Group at JPL. 
-Taverna's recent overhaul appears to have helped their decision too, as Hook Hua describes 
-   "one of the initial reasons we chose to use Taverna was its polished look and feel when compared to 
+JPL considered a number of different research and commercial workflow systems and finally settled on Taverna.
+"The thing that really sold us on Taverna was the dynamic WSDL introspection and presentation of the
+   WSDL interface as ports of a process component" - said Hook Hua,
+   a member of the High Capability Computing and Modeling Group at JPL.
+Taverna's recent overhaul appears to have helped their decision too, as Hook Hua describes
+   "one of the initial reasons we chose to use Taverna was its polished look and feel when compared to
    other workflow engines".
 
   [1]: #jpl

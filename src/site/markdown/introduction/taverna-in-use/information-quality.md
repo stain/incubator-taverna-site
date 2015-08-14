@@ -18,29 +18,29 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
 
 Taverna has been applied to document the quality of e-Science information by the Qurator project.
 
-<a name="qurator></a>
+<a name="qurator"></a>
 ##Qurator##
 
 The Qurator [project][1] was a UK EPSRC-funded project (grant ref. [GR/S67593/01][2]).
 
 The Qurator project aimed to develop and test tools to discover and document the quality of e-Science information.
 
-The tools were developed in close collaboration with user-scientists, 
+The tools were developed in close collaboration with user-scientists,
    with the long term goal of providing generic information quality support in e-Science.
 
-The Qurator project developed an information quality management workbench that supports data experts in the 
-   specification, rapid deployment and testing of personal quality hypotheses for specific types of data. 
-This is achieved by providing a declarative model and language for the definition of users’ hypotheses, 
-   called “quality views”, and a compilation of views into executable components that can be embedded in a 
-   user’s data processing application. Quality views are described in terms of an extensible semantic model 
+The Qurator project developed an information quality management workbench that supports data experts in the
+   specification, rapid deployment and testing of personal quality hypotheses for specific types of data.
+This is achieved by providing a declarative model and language for the definition of users’ hypotheses,
+   called “quality views”, and a compilation of views into executable components that can be embedded in a
+   user’s data processing application. Quality views are described in terms of an extensible semantic model
    for Information Quality.
 
-The Qurator workbench compiles quality views into Taverna workflows, 
-   effectively creating reusable quality sub-workflows that can be integrated into a host workflow during 
+The Qurator workbench compiles quality views into Taverna workflows,
+   effectively creating reusable quality sub-workflows that can be integrated into a host workflow during
    a deployment step.
 
 ###Publications###
-The [paper][3] *Managing information quality in e-science: the qurator workbench* by Missier et al, 
+The [paper][3] *Managing information quality in e-science: the qurator workbench* by Missier et al,
    describes the Qurator workbench.
 
 

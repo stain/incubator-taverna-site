@@ -28,15 +28,15 @@ Various projects and researchers use Taverna to access, collate and manipulate d
 <a name="efamily"></a>
 ##eFamily##
 
-The [eFamily project][7] was designed to integrate the information contained in five major protein databases. 
-   The project developed webservices to allow the calculation of results based upon the content of 
+The [eFamily project][7] was designed to integrate the information contained in five major protein databases.
+   The project developed webservices to allow the calculation of results based upon the content of
    several databases, and upon annotation of the data.
 
-The project made use of Taverna workflows to integrate the webservices, 
+The project made use of Taverna workflows to integrate the webservices,
    both those provided by the eFamily project and those developed externally.
 
 ###Publications###
-Some details of this work are given in the http://www.allhands.org.uk/2004/proceedings/papers/211.pdf 
+Some details of this work are given in the http://www.allhands.org.uk/2004/proceedings/papers/211.pdf
    *eFamily: Bridging Sequence and Structure* by Finn et al.
 
 <a name="embrace"></a>
@@ -50,35 +50,35 @@ It consists of a large number of partners throughout Europe
 > The EMBRACE Network of Excellence will optimise informatics and information exploitation by
 > pure and applied biological scientists in both the academic and commercial sectors.
 
-The [University of Manchester][9] is a member of the EMBRACE project, 
+The [University of Manchester][9] is a member of the EMBRACE project,
    and the Taverna Workbench has been adopted by EMBRACE as its workflow system of choice.
 
 The suitability of Taverna Workbench has been confirmed by its use in several test cases:
 
- - The use of Taverna to access Grid Protein Sequence Analysis (GPSA) Web services as described by 
-      Blanchet et al. in the [paper][10] 
-      *Web Services Interface to Run Protein Sequence Tools on Grid, Testcase of Protein Sequence Alignment*. 
+ - The use of Taverna to access Grid Protein Sequence Analysis (GPSA) Web services as described by
+      Blanchet et al. in the [paper][10]
+      *Web Services Interface to Run Protein Sequence Tools on Grid, Testcase of Protein Sequence Alignment*.
    This includes the running of the Web services on [EGEE][11] grid.
- - Taverna has been used to automate the cleaning up and extraction of data by the EMBRACE project from the 
+ - Taverna has been used to automate the cleaning up and extraction of data by the EMBRACE project from the
       tGRAP database of mutated G-protein coupled receptors.
  - The ProDom-based protein family analyses test case includes the use of Taverna within [ProDom][12].
 
 The tGRAP work is described in the [document][13] *The reincarnation of the tGRAP database* by Vroling.
 
-Use of Taverna allows the members of EMBRACE to have ready access to the existing bioinformatics services and 
-   also to the myGrid team’s expertise in this area. Correspondingly, the members of EMBRACE represent 
+Use of Taverna allows the members of EMBRACE to have ready access to the existing bioinformatics services and
+   also to the myGrid team’s expertise in this area. Correspondingly, the members of EMBRACE represent
    a diverse group of users with different backgrounds and infrastructure.
 
 <a name="omixed"></a>
 ##omixed##
 
-[omixed][14]</a> is a “customisable storage system for scientific data, completely managed via web services”. 
+[omixed][14] is a “customisable storage system for scientific data, completely managed via web services”.
 Its developers have written a Taverna 1.7.x [plugin][15] to allow users to access data.
 
-The plugin “provides two endpoints giving full control of omixed resources. 
-The first endpoint, known as the server endpoint, is designed for most users who want to browse, download, 
-   or add to or modify existing resources. 
-The second point, known as the admin endpoint, is designed for administrators to create and delete resources, 
+The plugin “provides two endpoints giving full control of omixed resources.
+The first endpoint, known as the server endpoint, is designed for most users who want to browse, download,
+   or add to or modify existing resources.
+The second point, known as the admin endpoint, is designed for administrators to create and delete resources,
    assign schema to them, and modify user privileges.”
 
 

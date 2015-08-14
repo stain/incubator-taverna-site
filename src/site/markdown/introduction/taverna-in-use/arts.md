@@ -20,16 +20,17 @@ Taverna has been used for the [composition of music][1] using Web services for s
 
 <a name="composition-of-music"></a>
 ##Composition of music##
-[John Ffitch][2] and others at the University of Bath have developed a service-oriented composition environment 
-   for music. 
+[John Ffitch][2] and others at the University of Bath have developed a service-oriented composition environment
+   for music.
 The environment consists of three main components:
- - A suite of synthesis Web services that incorporate a selection of the basic atomic components required for 
-      sound creation and processing</li>
- - A tool that gives a description of music in terms of the construction of the instruments 
+ - A suite of synthesis Web services that incorporate a selection of the basic atomic components required for
+      sound creation and processing
+ - A tool that gives a description of music in terms of the construction of the instruments
      (parameters, connections) and the score they will play on>
  - An “environment of use” that allows the connection and enactment of the synthesis services
 
 Both [Triana][3] and Taverna have been tested as the environment of use.
+
 ###Publications###
 This work is described in the [paper][4] *Composition with Sound Web Services and Workflows* by Ffitch et al
 

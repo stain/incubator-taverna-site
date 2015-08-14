@@ -16,23 +16,23 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-- [Plymouth Marine Laboratory][1] using Taverna to orchestrate geoinfomatics and OGC (Open Geospatial Consortium) 
-     Web services such as WPS (Web Processing Service)</li>
+- [Plymouth Marine Laboratory][1] using Taverna to orchestrate geoinfomatics and OGC (Open Geospatial Consortium)
+     Web services such as WPS (Web Processing Service)
 
 <a name = "pml"></a>
 ##PML##
-The [Plymouth Marine Laboratory][2] (PML) provides capability for observing, modelling, understanding and 
+The [Plymouth Marine Laboratory][2] (PML) provides capability for observing, modelling, understanding and
    forecasting marine ecosystems, to underpin evidence-based environmental solutions to societal challenges.
 
 They are now using Taverna to orchestrate geoinfomatics and OGC (Open Geospatial  Consortium) Web services such as
-  WPS (Web Processing Service). 
-The work has been described in the following paper, to be published in a special issue of computers &amp; 
-  geosciences concerning Web service orchestration:   
+  WPS (Web Processing Service).
+The work has been described in the following paper, to be published in a special issue of computers &amp;
+  geosciences concerning Web service orchestration:
 ["WPS orchestration using the Taverna workbench: The eScience approach"][3]
 
-They have also developed a Web based graphical editor based on the [WireIt API][4]. 
-It will be used in conjunction with the Taverna  Server allowing as a Web-based orchestration engine. 
-This Web editor will be included in the future European Marine Information  System (EUMIS) pilot, 
+They have also developed a Web based graphical editor based on the [WireIt API][4].
+It will be used in conjunction with the Taverna  Server allowing as a Web-based orchestration engine.
+This Web editor will be included in the future European Marine Information  System (EUMIS) pilot,
 part of the [NETMAR][5] project.
 
   [1]: #pml

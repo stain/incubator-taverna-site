@@ -16,80 +16,80 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-Taverna is used by various tools and projects for the association of metadata with data (annotation). 
+Taverna is used by various tools and projects for the association of metadata with data (annotation).
 These include:
- - [Automatic Functional Annotation in a distributed Web service Environment][1](AFAWE) - 
+ - [Automatic Functional Annotation in a distributed Web service Environment][1](AFAWE) -
       annotation of plant genes with their functionality
- - [Interactive genome annotation pipeline][2]</a> - automatic and manual annotation of genes
+ - [Interactive genome annotation pipeline][2] - automatic and manual annotation of genes
  - [TaWeka][3] - associating biological data with calculated functionality
 
-In addition, Taverna makes use of the semantic annotation that has been specified for the services provided by 
+In addition, Taverna makes use of the semantic annotation that has been specified for the services provided by
    the [MOBY consortium][4].
 
-Taverna has also been used for the identification of mismatches and possible annotations in workflows by the 
+Taverna has also been used for the identification of mismatches and possible annotations in workflows by the
    [iSPIDER][5] project.
 
 <a name="afawe"></a>
 ##AFAWE##
 
-The [Max Planck Institute for Plant Breeding Research][6] in Cologne, Germany have developed the 
-  Automatic Functional Annotation in a distributed Web Service Environment ([AFAWE][7]). 
-AFAWE is a tool for the automatic functional annotation of new genes in plants and other organisms. 
+The [Max Planck Institute for Plant Breeding Research][6] in Cologne, Germany have developed the
+  Automatic Functional Annotation in a distributed Web Service Environment ([AFAWE][7]).
+AFAWE is a tool for the automatic functional annotation of new genes in plants and other organisms.
 The annotation involves the running of several Web services, and also the execution of a Taverna [workflow][8].
 
 The annotation workflow is [available][9] on [myExperiment][10].
 
 ###Publications###
-The [paper][11] *Protein function prediction and annotation in an integrated environment powered by web services 
+The [paper][11] *Protein function prediction and annotation in an integrated environment powered by web services
   (AFAWE)* by Joecker et al describes the concepts and implementation of AFAWE.
 
 <a name="annotation-of-genomes"></a>
 ##Annotation of genomes##
-A collaboration between Tom Oinn from the myGrid team and Anders Lanzen, Svenn Helge Grindhaug and 
-   Pal Puntervoll from the [University of Bergen][13], Norway, has produced an interactive genome annotation 
+A collaboration between Tom Oinn from the myGrid team and Anders Lanzen, Svenn Helge Grindhaug and
+   Pal Puntervoll from the [University of Bergen][13], Norway, has produced an interactive genome annotation
    pipeline.
 
-Sequencing, characterising and annotating a genome are the first steps to understanding its function. 
-Important stages in this include gene prediction, comparative genomics and function prediction of genes and 
-   gene products. 
-With workflows all of these stages can be automate, requiring little human interaction. 
+Sequencing, characterising and annotating a genome are the first steps to understanding its function.
+Important stages in this include gene prediction, comparative genomics and function prediction of genes and
+   gene products.
+With workflows all of these stages can be automate, requiring little human interaction.
 However, manual inspection can be required at certain points in the process.
 
 ###Publications###
-[Articles and papers](http://scholar.google.co.uk/scholar?q=Taverna+for+genome+annotation) 
+[Articles and papers](http://scholar.google.co.uk/scholar?q=Taverna+for+genome+annotation)
    about the success of Taverna for genome annotation are available on-line.
 
 <a name="taweka"></a>
 ##TaWeka##
-[Luna De Ferrari][15] from the Computational Systems Biology &amp; 
+[Luna De Ferrari][15] from the Computational Systems Biology &amp;
    [Bioinformatics group at the University of Edinburgh][16] has developed [TaWeka][17],
 
 > a rapid prototyping tool for biological classifiers.
 
-TaWeka uses Taverna workflows to store data retrieved from webservices, e.g. queries of biological data, 
-   into a database. 
-[Weka][18] is then used to run machine learning experiments on the data in order to evaluate and improve 
+TaWeka uses Taverna workflows to store data retrieved from webservices, e.g. queries of biological data,
+   into a database.
+[Weka][18] is then used to run machine learning experiments on the data in order to evaluate and improve
    biological classification functions.
 
 ###Publications###
-A poster [*TaWeka: from biological web services to data mining*][19] by De Ferrara and Goryanin describes the 
+A poster [*TaWeka: from biological web services to data mining*][19] by De Ferrara and Goryanin describes the
    purpose and implementation of TaWeka.
 
 <a name="adoption-by-moby"></a>
 ##Adoption by the Moby consortium##
-The [Moby][20] project develops a system for interoperability between biological data hosts and 
-   analytical services. 
+The [Moby][20] project develops a system for interoperability between biological data hosts and
+   analytical services.
 Their relationship with Taverna is multiple:
 
- - The Moby team actively collaborate with myGrid in the development of the ontologies used to describe their 
-      services. 
+ - The Moby team actively collaborate with myGrid in the development of the ontologies used to describe their
+      services.
    Service descriptions are then used by Taverna to find services to use in workflows.
  - The services published on Moby are a large proportion of the services often used in Taverna workflows
  - People wishing to combine Moby services commonly use Taverna Workbench as a platform
  - Specific support for Moby services is available within Taverna.
 
 ###Publications###
-The [paper][21] *Interoperability with Moby 1.0—It’s better than sharing your toothbrush!* by the 
+The [paper][21] *Interoperability with Moby 1.0—It’s better than sharing your toothbrush!* by the
    Moby consortium gives an overview of Moby and their activities.
 
   [1]: #afawe
